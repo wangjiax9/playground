@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pray-item-border",
+    "texture": "efbf1330-7941-4c8a-ba17-c2ba60adceab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      602,
+      248
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      602,
+      248
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

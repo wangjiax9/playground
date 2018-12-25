@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "role-select-border",
+    "texture": "1ebdbf9c-afa3-4021-8c1f-01a11e16a2c7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      483,
+      870
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      483,
+      870
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

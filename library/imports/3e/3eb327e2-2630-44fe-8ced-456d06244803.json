@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pray-btn",
+    "texture": "e07774b0-3fe9-4f95-a078-a8cd35f9f84c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      119,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      119,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

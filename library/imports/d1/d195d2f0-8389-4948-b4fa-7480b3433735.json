@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "god-bg",
+    "texture": "fcd7069f-327e-47c7-af29-3925993283e2",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      252,
+      31
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      252,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

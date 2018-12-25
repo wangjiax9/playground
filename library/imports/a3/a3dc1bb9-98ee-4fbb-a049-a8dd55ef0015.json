@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pray-item-bg",
+    "texture": "75d6bf9c-744c-4945-8226-21cec2f20847",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      602,
+      248
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      602,
+      248
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

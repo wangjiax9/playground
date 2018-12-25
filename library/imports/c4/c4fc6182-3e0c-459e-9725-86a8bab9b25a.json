@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pray-btn-gone",
+    "texture": "3c98016b-368d-47c7-9379-084153fc31a9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      121,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      121,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

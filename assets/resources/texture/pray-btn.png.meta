@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e07774b0-3fe9-4f95-a078-a8cd35f9f84c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "pray-btn": {
+      "ver": "1.0.3",
+      "uuid": "3eb327e2-2630-44fe-8ced-456d06244803",
+      "rawTextureUuid": "e07774b0-3fe9-4f95-a078-a8cd35f9f84c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 119,
+      "height": 58,
+      "rawWidth": 119,
+      "rawHeight": 58,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

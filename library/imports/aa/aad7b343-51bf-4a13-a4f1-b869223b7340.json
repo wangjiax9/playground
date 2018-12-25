@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "battle-result-back",
+    "texture": "392cbab8-f997-4edf-871b-33ea0eeea1af",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      121,
+      62
+    ],
+    "offset": [
+      1.5,
+      0
+    ],
+    "originalSize": [
+      124,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

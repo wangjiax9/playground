@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "power-dx",
+    "texture": "6242d8c1-a6f9-4b7b-88a2-aa4896ce331c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      22,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      22,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

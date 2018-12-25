@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pray-bar",
+    "texture": "b2bad797-7d8f-435f-8682-ef31af0d44d9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      296,
+      10
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      297,
+      10
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

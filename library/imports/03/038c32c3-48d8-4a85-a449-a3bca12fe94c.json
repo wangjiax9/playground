@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "recycle-bg",
+    "texture": "1e4969c4-bd45-4419-b0fd-5fcca66b75dc",
+    "atlas": "",
+    "rect": [
+      0,
+      528,
+      750,
+      806
+    ],
+    "offset": [
+      0,
+      -264
+    ],
+    "originalSize": [
+      750,
+      1334
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

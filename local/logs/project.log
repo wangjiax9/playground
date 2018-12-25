@@ -1,0 +1,143 @@
+2018-12-24T08:19:49.438Z - normal: Load ~/.CocosCreator/settings.json
+2018-12-24T08:19:49.442Z - normal: checking language setting...
+2018-12-24T08:19:49.443Z - normal: Language: zh
+2018-12-24T08:19:50.141Z - success: protocol editor-framework registered
+2018-12-24T08:19:50.141Z - success: protocol app registered
+2018-12-24T08:19:50.142Z - success: protocol theme registered
+2018-12-24T08:19:50.142Z - success: protocol packages registered
+2018-12-24T08:19:50.142Z - success: protocol unpack registerred
+2018-12-24T08:19:50.142Z - success: protocol disable-commonjs registerred
+2018-12-24T08:19:50.267Z - normal: connected!
+2018-12-24T08:19:50.269Z - normal: Check project /Users/x9/workspace/hackathon05/src/main/web
+2018-12-24T08:19:50.273Z - normal: Initializing project /Users/x9/workspace/hackathon05/src/main/web
+2018-12-24T08:19:50.278Z - normal: Initializing Cocos2d
+2018-12-24T08:19:50.915Z - normal: Initializing Asset Database
+2018-12-24T08:19:50.958Z - success: protocol uuid registerred
+2018-12-24T08:19:50.958Z - success: protocol db registerred
+2018-12-24T08:19:50.958Z - success: protocol thumbnail registerred
+2018-12-24T08:19:50.959Z - normal: Loading editor/builtin packages
+2018-12-24T08:19:51.097Z - success: assets loaded
+2018-12-24T08:19:51.101Z - success: builder loaded
+2018-12-24T08:19:51.102Z - success: cocos-analytics loaded
+2018-12-24T08:19:51.106Z - success: console loaded
+2018-12-24T08:19:51.142Z - success: fb-instant-games loaded
+2018-12-24T08:19:51.144Z - success: google-instant-games loaded
+2018-12-24T08:19:51.150Z - success: hierarchy loaded
+2018-12-24T08:19:51.155Z - success: inspector loaded
+2018-12-24T08:19:51.157Z - success: keystore loaded
+2018-12-24T08:19:51.164Z - success: node-library loaded
+2018-12-24T08:19:51.166Z - success: package-asset loaded
+2018-12-24T08:19:51.168Z - success: preferences loaded
+2018-12-24T08:19:51.172Z - success: project-exporter loaded
+2018-12-24T08:19:51.195Z - success: project-importer loaded
+2018-12-24T08:19:51.200Z - success: project-settings loaded
+2018-12-24T08:19:51.207Z - success: ui-kit loaded
+2018-12-24T08:19:51.211Z - success: scene loaded
+2018-12-24T08:19:51.213Z - success: sprite-editor loaded
+2018-12-24T08:19:51.217Z - success: store loaded
+2018-12-24T08:19:51.223Z - success: timeline loaded
+2018-12-24T08:19:51.223Z - normal: Loading builtin packages
+2018-12-24T08:19:51.230Z - success: asset-db-debugger loaded
+2018-12-24T08:19:51.232Z - success: color-picker loaded
+2018-12-24T08:19:51.320Z - success: google-play-instant loaded
+2018-12-24T08:19:51.322Z - success: jsb-adapter loaded
+2018-12-24T08:19:51.328Z - success: oppo-runtime loaded
+2018-12-24T08:19:51.334Z - success: package-manager loaded
+2018-12-24T08:19:51.465Z - success: qqplay-adapter loaded
+2018-12-24T08:19:51.473Z - success: sdkbox loaded
+2018-12-24T08:19:51.478Z - success: tester loaded
+2018-12-24T08:19:51.484Z - success: ui-grid loaded
+2018-12-24T08:19:51.488Z - success: ui-kit-preview-extra loaded
+2018-12-24T08:19:51.493Z - success: ui-kit-preview loaded
+2018-12-24T08:19:51.499Z - success: ui-tree loaded
+2018-12-24T08:19:51.502Z - success: vivo-runtime loaded
+2018-12-24T08:19:51.503Z - success: weapp-adapter loaded
+2018-12-24T08:19:52.457Z - normal: Loading packages
+2018-12-24T08:19:52.466Z - normal: Watching packages
+2018-12-24T08:19:52.547Z - normal: Run Application
+2018-12-24T08:19:53.694Z - success: preview server running at http://localhost:7456
+2018-12-25T03:02:24.302Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/x9/workspace/hackathon05/src/main/web/build",
+  "debug": false,
+  "dest": "/Users/x9/workspace/hackathon05/src/main/web/build/web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "93c397d6-2df3-4634-a80c-632091b5cf60",
+    "8a1e8dd5-3957-4a3d-baab-6ac7da446c8f",
+    "41bb670b-f42c-4e5d-a087-2b082405a672"
+  ],
+  "sourceMaps": false,
+  "startScene": "93c397d6-2df3-4634-a80c-632091b5cf60",
+  "template": "link",
+  "title": "playground",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "95394764-a41c-49",
+  "zipCompressJs": true,
+  "project": "/Users/x9/workspace/hackathon05/src/main/web",
+  "projectName": "playground",
+  "debugBuildWorker": false
+}
+2018-12-25T03:02:24.308Z - normal: Building /Users/x9/workspace/hackathon05/src/main/web
+2018-12-25T03:02:24.308Z - normal: Destination /Users/x9/workspace/hackathon05/src/main/web/build/web-mobile
+2018-12-25T03:02:24.679Z - normal: Delete /Users/x9/workspace/hackathon05/src/main/web/build/web-mobile/**/*
+2018-12-25T03:02:27.933Z - normal: Start building assets
+2018-12-25T03:02:27.933Z - normal: Start spawn build-worker
+2018-12-25T03:02:28.745Z - normal: Finish spawn build-worker
+2018-12-25T03:02:28.745Z - normal: Start init build-worker
+2018-12-25T03:02:32.305Z - normal: Finish init build-worker
+2018-12-25T03:02:32.305Z - normal: Start build-assets in worker
+2018-12-25T03:02:33.361Z - normal: Finish build-assets in worker
+2018-12-25T03:02:33.365Z - normal: Finish building assets
+2018-12-25T03:02:33.391Z - normal: Start building plugin scripts
+2018-12-25T03:02:33.457Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-12-25T03:02:33.470Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-12-25T03:02:33.486Z - normal: Built to "/Users/x9/workspace/hackathon05/src/main/web/build/web-mobile" successfully

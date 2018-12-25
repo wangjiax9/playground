@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pray-dialog",
+    "texture": "b0347c6b-c8ea-4fb1-92fb-731ec51a92af",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      391,
+      267
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      391,
+      267
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

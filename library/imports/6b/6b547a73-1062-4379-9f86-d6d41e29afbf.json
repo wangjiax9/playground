@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "god01",
+    "texture": "85e2a2dc-3cd4-4904-9ff1-39600494f4a8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      450,
+      840
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      450,
+      840
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

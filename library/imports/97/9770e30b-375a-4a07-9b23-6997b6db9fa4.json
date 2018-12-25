@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "battle-award-dx",
+    "texture": "e229d3c6-3805-49af-80f1-deb7f55e55f9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      116,
+      107
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      116,
+      107
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b0347c6b-c8ea-4fb1-92fb-731ec51a92af",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "pray-dialog": {
+      "ver": "1.0.3",
+      "uuid": "c6453f6e-f011-408e-b3a3-403205f4f2d0",
+      "rawTextureUuid": "b0347c6b-c8ea-4fb1-92fb-731ec51a92af",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 391,
+      "height": 267,
+      "rawWidth": 391,
+      "rawHeight": 267,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

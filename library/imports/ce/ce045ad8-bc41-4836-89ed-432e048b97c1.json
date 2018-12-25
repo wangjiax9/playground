@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pray-b-nor",
+    "texture": "b93ed801-9121-4826-b890-2dd3961231c5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      54,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

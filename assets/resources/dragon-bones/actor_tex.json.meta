@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a1a0766a-5f9e-4cdc-9db8-9768f54dd130",
+  "atlasJson": "{\"SubTexture\":[{\"frameY\":-2,\"y\":1,\"frameWidth\":157,\"height\":235,\"frameHeight\":242,\"width\":153,\"name\":\"actor1\",\"frameX\":0,\"x\":1},{\"frameY\":-2,\"y\":1,\"frameWidth\":157,\"height\":235,\"frameHeight\":242,\"width\":153,\"name\":\"actor0\",\"frameX\":0,\"x\":156}],\"width\":512,\"name\":\"actor\",\"imagePath\":\"actor_tex.png\",\"height\":256}",
+  "texture": "34328caf-eb34-4940-babd-22c0daf53fdb",
+  "subMetas": {}
+}

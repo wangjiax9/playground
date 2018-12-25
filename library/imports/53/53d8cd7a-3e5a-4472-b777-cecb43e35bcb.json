@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pray-progress-complete",
+    "texture": "12c3109a-d5be-4db7-b447-dffeb5d17aea",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      506,
+      10
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      506,
+      10
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
